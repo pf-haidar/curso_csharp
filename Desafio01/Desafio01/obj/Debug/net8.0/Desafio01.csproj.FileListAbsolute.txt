@@ -1,0 +1,15 @@
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.exe
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.deps.json
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.runtimeconfig.json
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.dll
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\bin\Debug\net8.0\Desafio01.pdb
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfoInputs.cache
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.AssemblyInfo.cs
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.csproj.CoreCompileInputs.cache
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.sourcelink.json
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.dll
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\refint\Desafio01.dll
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.pdb
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\Desafio01.genruntimeconfig.cache
+C:\Users\Haidar\Documents\Projetos\RocketSeat\curso_csharp\Desafio01\Desafio01\obj\Debug\net8.0\ref\Desafio01.dll
