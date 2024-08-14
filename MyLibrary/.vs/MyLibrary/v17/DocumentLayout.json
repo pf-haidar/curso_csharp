@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\mylibrary\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\mylibrary\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\mylibrary\\controllers\\librarybasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|solutionrelative:controllers\\librarybasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\mylibrary\\models\\moviesgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|solutionrelative:models\\moviesgenres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|c:\\users\\haidar\\documents\\projetos\\myprojects\\mylibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{029BCF1D-994B-4CB5-BF8F-862B8B85ED36}|MyLibrary.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Controllers\\LibraryBaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibraryBaseController.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Controllers\\LibraryBaseController.cs",
+              "RelativeToolTip": "Controllers\\LibraryBaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:03:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T20:02:06.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:21:41.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesGenres.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Models\\MoviesGenres.cs",
+              "RelativeDocumentMoniker": "Models\\MoviesGenres.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Models\\MoviesGenres.cs",
+              "RelativeToolTip": "Models\\MoviesGenres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:17:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Haidar\\Documents\\Projetos\\MyProjects\\MyLibrary\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T20:07:56.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
